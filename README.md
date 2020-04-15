@@ -9,4 +9,4 @@ There are no Control-Change messages used.
 To run it:
 Install Supercollider IDE
 Read a tutorial ... 
-Hoover your cursor over the code and use [cmd+enter](mac) / [ctl+enter](pc) simultaneously.
+Hoover your cursor over the code and use cmd+enter(mac) / ctl+enter(pc) simultaneously.
